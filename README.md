@@ -3,13 +3,13 @@
 
 ## javascript program which randomly generates a secure password. 
 
-This program generates a password that must be at least 8 to 128 characters in length and must include at least 1 upper-case letter, 1 special character, and 1 numeric character.
+This program generates a password that must be at least 8 to 128 characters total in length and must include at least 1 upper-case letter, 1 special character, and 1 numeric character.
 
 * so we need a password generator that is 8-128 characters long 
   
 * it needs to have 1 special, 1 uppercase, 1 lowercase, and 1 number at least.
   
-* each time prompted the user must answer
+* each time prompted the user must answer criteria
 
 
  ## password must be at least 8 to 128 characters in length.
